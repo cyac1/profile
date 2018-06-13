@@ -1,0 +1,127 @@
+h1 {
+ color: #52616B;
+ font-size: 20px;
+ font-family: Arial;
+ text-decoration: none;
+ line-height: 20px;
+}
+
+h2 {
+ color: #52616B;
+ font-size: 20px;
+ font-family: Arial;
+ text-decoration: none;
+}
+
+h4 {
+ color: #52616B;
+ font-size: 12px;
+ font-family: Arial;
+ text-decoration: none;
+}
+
+body {
+ color: #52616B;
+ background-color: F0F5F9;
+ font-size: 14px;
+ font-family: Arial;
+ text-decoration: none;
+ text-align: center;
+ padding: 30px auto;
+ margin: 0 auto;
+}
+
+a {
+ color: #52616B;
+ background-color: F0F5F9;
+ font-size: 12px;
+ font-family: Arial;
+ text-decoration: none;
+}
+
+a:hover {
+ color: #FD5F00;
+ background-color: #F0F5F9;
+ font-size: 12px;
+ font-family: Arial;
+ text-decoration: none;
+}
+
+.img-circle {
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
+
+.top {
+  text-align: center;
+  padding: 15px 0px 0px 0px;
+  margin: 15px 0px 0px 0px;
+/*  border: 1px solid #C9D6DF ;*/
+/*  background-color: #f6f6f6;*/
+  border-radius: 5px;
+  line-height: 8px;
+}
+
+.list-inline {
+list-style: none;
+line-height: 8px;
+}
+
+.list-inline li {
+  display: inline-block;
+  margin: 20px 20px;
+  line-height: 8px;
+}
+
+.cities-photos {
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/*.cities-arthur {
+  width: 100%;
+  height: 200px;
+  background-image: url("images/milan.jpg");
+  background-size: cover;
+}*/
+
+.cities {
+  text-align: center;
+  padding: 15px 15px;
+  margin: 20px 200px;
+  border: 1px solid #C9D6DF ;
+  border-radius: 5px;
+  background-color: #fdfdfd;
+}
+
+.cities-over {
+  text-align: center;
+  padding: 15px 15px;
+  margin: 20px 200px;
+  border: 1px solid #C9D6DF ;
+  border-radius: 5px;
+  background-color: #fdfdfd;
+}
+
+.cities-title {
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 10px;
+}
+
+.about-page {
+  line-height: 8px;
+}
+
+/*.big-div {
+  border: 0px solid ;
+  border-radius: 5px;
+  background-color: #F0F5F9;
+  margin: 0;
+  border: 0;
+  padding: 0;
+}*/
